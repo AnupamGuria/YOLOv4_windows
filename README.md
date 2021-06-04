@@ -41,5 +41,5 @@ Double click on it or you can paste this code in your Powershell ` ./darknet det
 
 
 #### courtesy 
-[AlexeyAB/darknet] (https://github.com/AlexeyAB/darknet#how-to-compile-on-windows-using-cmake)
+[AlexeyAB/darknet](https://github.com/AlexeyAB/darknet#how-to-compile-on-windows-using-cmake)
 
